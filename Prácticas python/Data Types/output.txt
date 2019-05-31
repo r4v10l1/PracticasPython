@@ -1,0 +1,56 @@
+
+[ STRINGS ]
+[=========================]
+hello world
+HELLO WORLD
+hello world (solo una comilla)
+<class 'str'>
+
+
+[ NUMBERS ]
+[=========================]
+Integer
+666
+<class 'int'>
+Float
+6.66
+<class 'float'>
+
+
+[ BOOLEANS ]
+[=========================]
+True
+<class 'bool'>
+
+
+[ LIST ]
+[=========================]
+[10, 20, 30, 312342452]
+['hola', 'HOLA', 'hola mundo', 'sdfsfsagfgeargdfgerg']
+[666, 'Hello', True, 6.66]
+<class 'list'>
+
+
+[ TUPLES ]
+[=========================]
+(1, 2, 3, 14131)
+<class 'tuple'>
+
+
+[ DICTIONARIES ]
+[=========================]
+{'Nombrepersona': 'José Juan Luis Jacobo', 'Apellido': 'de Jerusalén', 'Apodo': 'xX_comunistautista777_Xx', 'Número de cuenta >:D': 123456789}
+<class 'dict'>
+
+Luis
+de la Mancha
+123456789
+['Perro', 'Gato']
+Perro
+Gato
+
+
+[ NONE ]
+[=========================]
+None
+<class 'NoneType'>
