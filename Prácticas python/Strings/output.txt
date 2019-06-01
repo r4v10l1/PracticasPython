@@ -1,0 +1,25 @@
+HELLO WORLD
+hello world
+Hello World
+hELLO wORLD
+Hello world
+Bye World
+BYE WORLD
+3
+1
+False
+True
+['Hello', 'World']
+['Hello ', 'orld']
+['Hell', ' W', 'rld']
+6
+11
+1
+False
+False
+o
+l
+Hola mundo es Hello World
+Hola mundo es {myStr}
+Hola mundo es Hello World
+Hola mundo es Hello World
